@@ -1,0 +1,17 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="importLayout">
+        <array>
+          <option value="all other imports" />
+          <option value="_______ blank line _______" />
+          <option value="scala" />
+          <option value="_______ blank line _______" />
+          <option value="java" />
+        </array>
+      </option>
+      <option name="INDENT_FIRST_PARAMETER" value="false" />
+      <option name="INDENT_FIRST_PARAMETER_CLAUSE" value="true" />
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
